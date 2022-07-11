@@ -1,0 +1,6 @@
+com\firstapplication\main\student\StudentService.class
+com\firstapplication\main\student\Student.class
+com\firstapplication\main\student\StudentConfig.class
+com\firstapplication\main\student\StudentRepository.class
+com\firstapplication\main\MainApplication.class
+com\firstapplication\main\student\StudentController.class
